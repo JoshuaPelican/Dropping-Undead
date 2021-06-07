@@ -1,0 +1,838 @@
+fileFormatVersion: 2
+guid: e05872bd01522b14fa5d27d6c571cbf7
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.2
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: ZombieBaseMeshes:Character1_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZombieBaseMeshes:Character1_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZombieBaseMeshes:Character1_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZombieBaseMeshes:Character1_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZombieBaseMeshes:Character1_RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZombieBaseMeshes:Character1_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZombieBaseMeshes:Character1_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZombieBaseMeshes:Character1_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZombieBaseMeshes:Character1_Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZombieBaseMeshes:Character1_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZombieBaseMeshes:Character1_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZombieBaseMeshes:Character1_LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZombieBaseMeshes:Character1_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZombieBaseMeshes:Character1_LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZombieBaseMeshes:Character1_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZombieBaseMeshes:Character1_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZombieBaseMeshes:Character1_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZombieBaseMeshes:Character1_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZombieBaseMeshes:Character1_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZombieBaseMeshes:Character1_LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZombieBaseMeshes:Character1_RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZombieBaseMeshes:Character1_LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZombieBaseMeshes:Character1_LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZombieBaseMeshes:Character1_LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZombieBaseMeshes:Character1_LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZombieBaseMeshes:Character1_LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZombieBaseMeshes:Character1_LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZombieBaseMeshes:Character1_LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZombieBaseMeshes:Character1_LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZombieBaseMeshes:Character1_LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZombieBaseMeshes:Character1_LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZombieBaseMeshes:Character1_LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZombieBaseMeshes:Character1_LeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZombieBaseMeshes:Character1_LeftHandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZombieBaseMeshes:Character1_LeftHandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZombieBaseMeshes:Character1_LeftHandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZombieBaseMeshes:Character1_RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZombieBaseMeshes:Character1_RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZombieBaseMeshes:Character1_RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZombieBaseMeshes:Character1_RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZombieBaseMeshes:Character1_RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZombieBaseMeshes:Character1_RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZombieBaseMeshes:Character1_RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZombieBaseMeshes:Character1_RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZombieBaseMeshes:Character1_RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZombieBaseMeshes:Character1_RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZombieBaseMeshes:Character1_RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZombieBaseMeshes:Character1_RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZombieBaseMeshes:Character1_RightHandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZombieBaseMeshes:Character1_RightHandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZombieBaseMeshes:Character1_RightHandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ZombieBaseMeshes:Character1_Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Zombie_BaseMesh_01(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Body
+      parentName: Zombie_BaseMesh_01(Clone)
+      position: {x: -0, y: -0.00000020412061, z: 0}
+      rotation: {x: 4.801667e-10, y: 0.0000000050399933, z: 0.0000000012193522, w: 1}
+      scale: {x: 5.728382, y: 5.7283826, z: 5.728382}
+    - name: ZombieBaseMeshes:Character1_Reference
+      parentName: Zombie_BaseMesh_01(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_Hips
+      parentName: ZombieBaseMeshes:Character1_Reference
+      position: {x: -0, y: 1.12, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_LeftUpLeg
+      parentName: ZombieBaseMeshes:Character1_Hips
+      position: {x: -0.099792, y: -0.070224, z: 0}
+      rotation: {x: -0.044229336, y: 0, z: -0, w: 0.9990214}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_LeftLeg
+      parentName: ZombieBaseMeshes:Character1_LeftUpLeg
+      position: {x: 1.4210855e-17, y: -0.5026411, z: -0.063146725}
+      rotation: {x: 0.090350784, y: 0, z: -0, w: 0.99591}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_LeftFoot
+      parentName: ZombieBaseMeshes:Character1_LeftLeg
+      position: {x: -0, y: -0.48484138, z: -0.00000004707146}
+      rotation: {x: -0.046213932, y: 0, z: -0, w: 0.9989316}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_LeftToeBase
+      parentName: ZombieBaseMeshes:Character1_LeftFoot
+      position: {x: -0.00000009918213, y: -0.033640556, z: 0.16373807}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_RightUpLeg
+      parentName: ZombieBaseMeshes:Character1_Hips
+      position: {x: 0.099792, y: -0.070224, z: 0}
+      rotation: {x: -0.04110189, y: 0, z: -0, w: 0.999155}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_RightLeg
+      parentName: ZombieBaseMeshes:Character1_RightUpLeg
+      position: {x: 0.000000007629395, y: -0.5026413, z: -0.05911627}
+      rotation: {x: 0.08369079, y: 0, z: -0, w: 0.9964918}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_RightFoot
+      parentName: ZombieBaseMeshes:Character1_RightLeg
+      position: {x: -0.000000007629395, y: -0.4875987, z: 0.00000005870441}
+      rotation: {x: -0.042662375, y: 0, z: -0, w: 0.99908954}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_RightToeBase
+      parentName: ZombieBaseMeshes:Character1_RightFoot
+      position: {x: 0.00000009918213, y: -0.035809193, z: 0.15294704}
+      rotation: {x: 0, y: -0.00004189127, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_Spine
+      parentName: ZombieBaseMeshes:Character1_Hips
+      position: {x: -0, y: 0.07840002, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_Spine1
+      parentName: ZombieBaseMeshes:Character1_Spine
+      position: {x: -0, y: 0.14186671, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_Spine2
+      parentName: ZombieBaseMeshes:Character1_Spine1
+      position: {x: -0, y: 0.14186658, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_LeftShoulder
+      parentName: ZombieBaseMeshes:Character1_Spine2
+      position: {x: -0.078400016, y: 0.15965846, z: 0.016511435}
+      rotation: {x: -0, y: 0.14004248, z: 0.038724583, w: 0.989388}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_LeftArm
+      parentName: ZombieBaseMeshes:Character1_LeftShoulder
+      position: {x: -0.11992121, y: 0.022351807, z: -0.080832556}
+      rotation: {x: 0.008937083, y: -0.067123026, z: -0.049444955, w: 0.99647874}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_LeftForeArm
+      parentName: ZombieBaseMeshes:Character1_LeftArm
+      position: {x: -0.30582148, y: -0.021112042, z: -0.0266102}
+      rotation: {x: 0.0017113078, y: -0.083386734, z: 0.0019597283, w: 0.9965139}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_LeftHand
+      parentName: ZombieBaseMeshes:Character1_LeftForeArm
+      position: {x: -0.25185555, y: -0.004602464, z: 0.024029525}
+      rotation: {x: 0, y: 0, z: 0.000096248186, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_LeftHandThumb1
+      parentName: ZombieBaseMeshes:Character1_LeftHand
+      position: {x: -0.043292083, y: -0.0059446394, z: 0.038892087}
+      rotation: {x: -0.18328758, y: 0.027038978, z: -0.13751476, w: 0.97301817}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_LeftHandThumb2
+      parentName: ZombieBaseMeshes:Character1_LeftHandThumb1
+      position: {x: -0.015599512, y: -0.01883428, z: 0.0171077}
+      rotation: {x: -0.0027498147, y: 0.09153785, z: 0.09835663, w: 0.9909285}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_LeftHandThumb3
+      parentName: ZombieBaseMeshes:Character1_LeftHandThumb2
+      position: {x: -0.022125985, y: -0.013428146, z: 0.011891984}
+      rotation: {x: 0, y: 0, z: -0.00004109861, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_LeftHandThumb4
+      parentName: ZombieBaseMeshes:Character1_LeftHandThumb3
+      position: {x: -0.02320037, y: -0.01408245, z: 0.012469849}
+      rotation: {x: 0, y: 0, z: 0.000022012564, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_LeftHandIndex1
+      parentName: ZombieBaseMeshes:Character1_LeftHand
+      position: {x: -0.09753556, y: -0.015952205, z: 0.03743803}
+      rotation: {x: 0, y: 0, z: -0.00012833092, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_LeftHandIndex2
+      parentName: ZombieBaseMeshes:Character1_LeftHandIndex1
+      position: {x: -0.04648765, y: -0.008700424, z: 0.0016486301}
+      rotation: {x: 0.0000017253524, y: -0.017452406, z: 0.00009362168, w: 0.9998477}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_LeftHandIndex3
+      parentName: ZombieBaseMeshes:Character1_LeftHandIndex2
+      position: {x: -0.029146168, y: -0.0054593384, z: 0.002053944}
+      rotation: {x: 0.0000015633925, y: 0.087155744, z: -0.000025411011, w: 0.9961947}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_LeftHandIndex4
+      parentName: ZombieBaseMeshes:Character1_LeftHandIndex3
+      position: {x: -0.02144192, y: -0.0040292456, z: -0.0022419004}
+      rotation: {x: 0.00000090120693, y: -0.1736482, z: -0.000019586458, w: 0.9848078}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_LeftHandMiddle1
+      parentName: ZombieBaseMeshes:Character1_LeftHand
+      position: {x: -0.106350824, y: -0.014168238, z: 0.013884537}
+      rotation: {x: 0, y: 0, z: -0.00012833092, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_LeftHandMiddle2
+      parentName: ZombieBaseMeshes:Character1_LeftHandMiddle1
+      position: {x: -0.05353888, y: -0.010019812, z: 0.0000033874514}
+      rotation: {x: 0.0000000029929295, y: -0.000031095955, z: 0.000096248186, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_LeftHandMiddle3
+      parentName: ZombieBaseMeshes:Character1_LeftHandMiddle2
+      position: {x: -0.030443233, y: -0.0056914063, z: 0.0000038159305}
+      rotation: {x: 0.0000000035915153, y: 0.00015547978, z: -0.000038499275, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_LeftHandMiddle4
+      parentName: ZombieBaseMeshes:Character1_LeftHandMiddle3
+      position: {x: -0.022080207, y: -0.004129678, z: -0.000004108086}
+      rotation: {x: -0.0000000019952862, y: -0.00031095956, z: 0.0000064165465, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_LeftHandRing1
+      parentName: ZombieBaseMeshes:Character1_LeftHand
+      position: {x: -0.109997265, y: -0.016228072, z: -0.008883385}
+      rotation: {x: 0, y: 0, z: -0.00012833092, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_LeftHandRing2
+      parentName: ZombieBaseMeshes:Character1_LeftHandRing1
+      position: {x: -0.049955525, y: -0.009349184, z: -1.4210855e-17}
+      rotation: {x: 0.0000000029708465, y: -0.000031097657, z: 0.00009696357, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_LeftHandRing3
+      parentName: ZombieBaseMeshes:Character1_LeftHandRing2
+      position: {x: -0.025371162, y: -0.004743087, z: 0.0000015779669}
+      rotation: {x: 0.0000000035917118, y: 0.00015548829, z: -0.000038499275, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_LeftHandRing4
+      parentName: ZombieBaseMeshes:Character1_LeftHandRing3
+      position: {x: -0.021174334, y: -0.0039603245, z: -0.0000052753876}
+      rotation: {x: -0.0000000019953954, y: -0.00031097655, z: 0.0000064165465, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_LeftHandPinky1
+      parentName: ZombieBaseMeshes:Character1_LeftHand
+      position: {x: -0.10387808, y: -0.022979835, z: -0.03442044}
+      rotation: {x: -0.0077852146, y: 0.04861711, z: -0.010100911, w: 0.99873614}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_LeftHandPinky2
+      parentName: ZombieBaseMeshes:Character1_LeftHandPinky1
+      position: {x: -0.033237793, y: -0.0062199635, z: -0.0043538054}
+      rotation: {x: 0, y: 0, z: 0.000102906844, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_LeftHandPinky3
+      parentName: ZombieBaseMeshes:Character1_LeftHandPinky2
+      position: {x: -0.021559944, y: -0.004030068, z: -0.0028240283}
+      rotation: {x: 0, y: 0, z: -0.000071792565, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_LeftHandPinky4
+      parentName: ZombieBaseMeshes:Character1_LeftHandPinky3
+      position: {x: -0.01819753, y: -0.0034042795, z: -0.0023836591}
+      rotation: {x: 0, y: 0, z: 0.000073003124, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_RightShoulder
+      parentName: ZombieBaseMeshes:Character1_Spine2
+      position: {x: 0.078400016, y: 0.15965846, z: 0.016511435}
+      rotation: {x: -0, y: -0.14004248, z: -0.038724583, w: 0.989388}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_RightArm
+      parentName: ZombieBaseMeshes:Character1_RightShoulder
+      position: {x: 0.11992121, y: 0.022351807, z: -0.080832556}
+      rotation: {x: 0.0089361565, y: 0.06712315, z: 0.04943119, w: 0.99647945}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_RightForeArm
+      parentName: ZombieBaseMeshes:Character1_RightArm
+      position: {x: 0.30582213, y: -0.021103593, z: -0.0266102}
+      rotation: {x: 0.0017658954, y: 0.08458438, z: -0.0017347927, w: 0.9964133}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_RightHand
+      parentName: ZombieBaseMeshes:Character1_RightForeArm
+      position: {x: 0.245887, y: -0.004636051, z: 0.024029525}
+      rotation: {x: 0, y: 0, z: -0.00030347274, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_RightHandThumb1
+      parentName: ZombieBaseMeshes:Character1_RightHand
+      position: {x: 0.043293726, y: -0.005932678, z: 0.038892087}
+      rotation: {x: -0.1832617, y: -0.027041009, z: 0.13775936, w: 0.97298837}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_RightHandThumb2
+      parentName: ZombieBaseMeshes:Character1_RightHandThumb1
+      position: {x: 0.015594308, y: -0.018838586, z: 0.0171077}
+      rotation: {x: -0.0027595751, y: -0.0915366, z: -0.098556526, w: 0.99090874}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_RightHandThumb3
+      parentName: ZombieBaseMeshes:Character1_RightHandThumb2
+      position: {x: 0.02212778, y: -0.013425089, z: 0.011891984}
+      rotation: {x: 0, y: 0, z: 0.00011613491, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_RightHandThumb4
+      parentName: ZombieBaseMeshes:Character1_RightHandThumb3
+      position: {x: 0.023200264, y: -0.014082728, z: 0.012469849}
+      rotation: {x: 0, y: 0, z: 0.000007877204, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_RightHandIndex1
+      parentName: ZombieBaseMeshes:Character1_RightHand
+      position: {x: 0.09753997, y: -0.015925257, z: 0.03743803}
+      rotation: {x: 0, y: 0, z: 0.00040463032, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_RightHandIndex2
+      parentName: ZombieBaseMeshes:Character1_RightHandIndex1
+      position: {x: 0.046485253, y: -0.008713269, z: 0.0016486301}
+      rotation: {x: -0.0000052965006, y: -0.01745297, z: -0.00030342652, w: 0.99984765}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_RightHandIndex3
+      parentName: ZombieBaseMeshes:Character1_RightHandIndex2
+      position: {x: 0.029219225, y: -0.0054551526, z: 0.000015745773}
+      rotation: {x: -0.00000564745, y: 0.08715856, z: 0.00012124738, w: 0.9961945}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_RightHandIndex4
+      parentName: ZombieBaseMeshes:Character1_RightHandIndex3
+      position: {x: 0.021229036, y: -0.004030289, z: 0.003755213}
+      rotation: {x: -0.0000014113248, y: -0.17365374, z: -0.00002018223, w: 0.9848068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_RightHandMiddle1
+      parentName: ZombieBaseMeshes:Character1_RightHand
+      position: {x: 0.106354736, y: -0.014138852, z: 0.013884537}
+      rotation: {x: 0, y: 0, z: 0.00040463032, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_RightHandMiddle2
+      parentName: ZombieBaseMeshes:Character1_RightHandMiddle1
+      position: {x: 0.053536106, y: -0.010034603, z: 0.0000033874514}
+      rotation: {x: -0.0000052965006, y: -0.01745297, z: -0.00030342652, w: 0.99984765}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_RightHandMiddle3
+      parentName: ZombieBaseMeshes:Character1_RightHandMiddle2
+      position: {x: 0.030425543, y: -0.0056872005, z: -0.001060594}
+      rotation: {x: -0.00000564745, y: 0.08715856, z: 0.00012124738, w: 0.9961945}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_RightHandMiddle4
+      parentName: ZombieBaseMeshes:Character1_RightHandMiddle3
+      position: {x: 0.021865007, y: -0.004130288, z: 0.003074431}
+      rotation: {x: -0.0000014113248, y: -0.17365374, z: -0.00002018223, w: 0.9848068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_RightHandRing1
+      parentName: ZombieBaseMeshes:Character1_RightHand
+      position: {x: 0.11000176, y: -0.01619768, z: -0.008883385}
+      rotation: {x: 0, y: 0, z: 0.00040463032, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_RightHandRing2
+      parentName: ZombieBaseMeshes:Character1_RightHandRing1
+      position: {x: 0.049952943, y: -0.009362986, z: 0}
+      rotation: {x: -0.000005284023, y: -0.01745297, z: -0.00030414134, w: 0.99984765}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_RightHandRing3
+      parentName: ZombieBaseMeshes:Character1_RightHandRing2
+      position: {x: 0.025356358, y: -0.0047395816, z: -0.0008854921}
+      rotation: {x: -0.00000564745, y: 0.08715856, z: 0.00012124738, w: 0.9961945}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_RightHandRing4
+      parentName: ZombieBaseMeshes:Character1_RightHandRing3
+      position: {x: 0.020968145, y: -0.0039609093, z: 0.0029469752}
+      rotation: {x: -0.0000014113248, y: -0.17365374, z: -0.00002018223, w: 0.9848068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_RightHandPinky1
+      parentName: ZombieBaseMeshes:Character1_RightHand
+      position: {x: 0.103884414, y: -0.022951132, z: -0.03442044}
+      rotation: {x: -0.007785007, y: -0.048616484, z: 0.010375682, w: 0.99873334}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_RightHandPinky2
+      parentName: ZombieBaseMeshes:Character1_RightHandPinky1
+      position: {x: 0.03323607, y: -0.0062291473, z: -0.0043538054}
+      rotation: {x: -0.000005485546, y: -0.01745297, z: -0.00029259658, w: 0.99984765}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_RightHandPinky3
+      parentName: ZombieBaseMeshes:Character1_RightHandPinky2
+      position: {x: 0.021448664, y: -0.004027841, z: -0.003574781}
+      rotation: {x: -0.00000470338, y: 0.08715856, z: 0.00006716337, w: 0.9961945}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_RightHandPinky4
+      parentName: ZombieBaseMeshes:Character1_RightHandPinky3
+      position: {x: 0.018352553, y: -0.0034022313, z: 0.00017227023}
+      rotation: {x: -0.0000032922803, y: -0.17365374, z: 0.00008757415, w: 0.9848068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_Neck
+      parentName: ZombieBaseMeshes:Character1_Spine2
+      position: {x: -0, y: 0.14186671, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ZombieBaseMeshes:Character1_Head
+      parentName: ZombieBaseMeshes:Character1_Neck
+      position: {x: -0, y: 0.224, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.2
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

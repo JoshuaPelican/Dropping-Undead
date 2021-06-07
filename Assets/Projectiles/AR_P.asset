@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c12fb0593eb62c4449a446ebe161c9ec, type: 3}
+  m_Name: AR_P
+  m_EditorClassIdentifier: 
+  mesh: {fileID: 4300002, guid: f6f9cbe8c064c444eb97e80e2d2135e3, type: 3}
+  explosionEnemy: {fileID: 8501239089315885847, guid: 61edfaa1f323c1445b4509349c26dc55,
+    type: 3}
+  explosionSurface: {fileID: 250465736387035845, guid: 298d80f9dad420e418fedc0e67c0318b,
+    type: 3}
+  bounciness: 0
+  useGravity: 0
+  explosionDamage: 8
+  explosionRange: 0.04
+  maxCollisions: 0
+  maxLifetime: 15
+  explodeOnTouch: 1
